@@ -41,7 +41,7 @@ html {
 .nav-list li a:hover {
   color: rgb(173, 169, 169);
 }
-.rightNav {
+.searchbar {
   /* background-color: violet; */
   width: 30%;
   display: flex;

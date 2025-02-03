@@ -12,7 +12,7 @@
     .nav-list li {
       padding: 12px 10px;
     }
-    .rightNav {
+    .searchbar {
       flex-direction: column;
       width: fit-content;
       margin: auto;
@@ -41,7 +41,7 @@
     .h-nav-resp {
       height: 70px;
     }
-    .v-class-resp {
+    .searchbar-resp {
       display: none;
     }
     .text-big {
